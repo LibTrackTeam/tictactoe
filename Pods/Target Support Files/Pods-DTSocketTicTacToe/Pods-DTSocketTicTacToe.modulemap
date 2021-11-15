@@ -1,0 +1,6 @@
+framework module Pods_DTSocketTicTacToe {
+  umbrella header "Pods-DTSocketTicTacToe-umbrella.h"
+
+  export *
+  module * { export * }
+}
